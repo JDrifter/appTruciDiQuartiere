@@ -1,0 +1,2 @@
+# appNeoTruciClan
+Git di neotruci 
